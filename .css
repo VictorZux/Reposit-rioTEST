@@ -3,17 +3,4 @@ body {
     background-color:  #E5E5E5;
     width: 100vw;
     height: 100vh;
-    font-size: 16px;
-    display: flex;
-}
-.header {
-    font-size: 20px;
-}
-.Container-left {
-    width: 50vw;
-    height: 50vw;
-}
-.Container-right {
-    width: 50vw;
-    height: 50vw;
 }
