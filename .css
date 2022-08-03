@@ -7,12 +7,7 @@ body {
     display: flex;
 }
 .header {
-    width: 16000px;
-    height: 92px;
     font-size: 20px;
-    display: flex;
-    left: 0%;
-    top: 0%;
 }
 .Container-left {
     width: 50vw;
