@@ -1,0 +1,27 @@
+body {
+    font-family: "Gilroy";
+    background-color: #E5E5E5;
+    font-size: 16px;
+}
+.header {
+    width: 100%;
+}
+.first{
+    position: absolute;
+    width: 1469.16px;
+    height: 581px;
+    top: 172px;
+    left: 80px;
+}
+.p1 {
+    width: 475px;
+    height: 84px;
+    top: 243px;
+    font-size: 20px;
+    font-family: 'Gilroy';
+}
+.Sneakultralight {
+    width: 581px;
+    height: 208px;
+    top: 11px;
+}
