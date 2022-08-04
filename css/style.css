@@ -1,0 +1,24 @@
+body {
+    font-family: "Gilroy";
+    background-color: #E5E5E5;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+.section-tenis {
+    width: 704px;
+    height: 600px;
+    left: 736px;
+}
+.container-left {
+    width: 30vw;
+    height: 40vh;
+}
+.container-right {
+    width: 30vw;
+    height: 40vh;
+}
+.cabeçalho {
+    width: 92px;
+    height: 28px;
+}
